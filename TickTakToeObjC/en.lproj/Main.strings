@@ -1,0 +1,24 @@
+
+/* Class = "UIButton"; normalTitle = "Exit"; ObjectID = "5Rw-0k-T1a"; */
+"5Rw-0k-T1a.normalTitle" = "Exit";
+
+/* Class = "UILabel"; text = "TickTakToe"; ObjectID = "LOR-DC-0WG"; */
+"LOR-DC-0WG.text" = "TickTakToe";
+
+/* Class = "UILabel"; text = "0"; ObjectID = "LkV-EY-3z2"; */
+"LkV-EY-3z2.text" = "0";
+
+/* Class = "UILabel"; text = "Round:"; ObjectID = "Mxh-vu-nzi"; */
+"Mxh-vu-nzi.text" = "Round:";
+
+/* Class = "UILabel"; text = "Player 2"; ObjectID = "W43-2q-3qK"; */
+"W43-2q-3qK.text" = "Player 2";
+
+/* Class = "UIButton"; normalTitle = "Start"; ObjectID = "ZUe-sO-qrB"; */
+"ZUe-sO-qrB.normalTitle" = "Start";
+
+/* Class = "UIButton"; normalTitle = "Reset"; ObjectID = "bBX-ug-1QW"; */
+"bBX-ug-1QW.normalTitle" = "Reset";
+
+/* Class = "UILabel"; text = "Player 1"; ObjectID = "lyf-e5-SF7"; */
+"lyf-e5-SF7.text" = "Player 1";

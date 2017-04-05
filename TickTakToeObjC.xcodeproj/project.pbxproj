@@ -7,14 +7,25 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		8E28894A1E25B2C800F20259 /* RedRubber.png in Resources */ = {isa = PBXBuildFile; fileRef = 8E2889491E25B2C800F20259 /* RedRubber.png */; };
+		8E28894B1E25B2C800F20259 /* RedRubber.png in Resources */ = {isa = PBXBuildFile; fileRef = 8E2889491E25B2C800F20259 /* RedRubber.png */; };
+		8E28894C1E25B2C800F20259 /* RedRubber.png in Resources */ = {isa = PBXBuildFile; fileRef = 8E2889491E25B2C800F20259 /* RedRubber.png */; };
+		8E28894E1E25B2F500F20259 /* GreenRubber.png in Resources */ = {isa = PBXBuildFile; fileRef = 8E28894D1E25B2F500F20259 /* GreenRubber.png */; };
+		8E28894F1E25B2F500F20259 /* GreenRubber.png in Resources */ = {isa = PBXBuildFile; fileRef = 8E28894D1E25B2F500F20259 /* GreenRubber.png */; };
+		8E2889501E25B2F500F20259 /* GreenRubber.png in Resources */ = {isa = PBXBuildFile; fileRef = 8E28894D1E25B2F500F20259 /* GreenRubber.png */; };
+		8E2889911E25BBD000F20259 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 8E2889901E25BBD000F20259 /* LaunchScreen.storyboard */; };
+		8E2889921E25BBD000F20259 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 8E2889901E25BBD000F20259 /* LaunchScreen.storyboard */; };
+		8E2889931E25BBD000F20259 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 8E2889901E25BBD000F20259 /* LaunchScreen.storyboard */; };
 		8ED4A6921E1DA67300E4208A /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 8ED4A6911E1DA67300E4208A /* main.m */; };
 		8ED4A6951E1DA67300E4208A /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 8ED4A6941E1DA67300E4208A /* AppDelegate.m */; };
 		8ED4A6981E1DA67400E4208A /* ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 8ED4A6971E1DA67400E4208A /* ViewController.m */; };
 		8ED4A69B1E1DA67400E4208A /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 8ED4A6991E1DA67400E4208A /* Main.storyboard */; };
 		8ED4A69D1E1DA67400E4208A /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 8ED4A69C1E1DA67400E4208A /* Assets.xcassets */; };
-		8ED4A6A01E1DA67500E4208A /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 8ED4A69E1E1DA67500E4208A /* LaunchScreen.storyboard */; };
 		8ED4A6AB1E1DA67500E4208A /* TickTakToeObjCTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 8ED4A6AA1E1DA67500E4208A /* TickTakToeObjCTests.m */; };
 		8ED4A6B61E1DA67500E4208A /* TickTakToeObjCUITests.m in Sources */ = {isa = PBXBuildFile; fileRef = 8ED4A6B51E1DA67500E4208A /* TickTakToeObjCUITests.m */; };
+		8EFB36EF1E1EE34900E59F0B /* grid.png in Resources */ = {isa = PBXBuildFile; fileRef = 8EFB36EE1E1EE34900E59F0B /* grid.png */; };
+		8EFB36F01E1EE34900E59F0B /* grid.png in Resources */ = {isa = PBXBuildFile; fileRef = 8EFB36EE1E1EE34900E59F0B /* grid.png */; };
+		8EFB36F11E1EE34900E59F0B /* grid.png in Resources */ = {isa = PBXBuildFile; fileRef = 8EFB36EE1E1EE34900E59F0B /* grid.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -35,6 +46,9 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		8E2889491E25B2C800F20259 /* RedRubber.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = RedRubber.png; sourceTree = "<group>"; };
+		8E28894D1E25B2F500F20259 /* GreenRubber.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = GreenRubber.png; sourceTree = "<group>"; };
+		8E2889901E25BBD000F20259 /* LaunchScreen.storyboard */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.storyboard; path = LaunchScreen.storyboard; sourceTree = "<group>"; };
 		8ED4A68D1E1DA67300E4208A /* TickTakToeObjC.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = TickTakToeObjC.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		8ED4A6911E1DA67300E4208A /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
 		8ED4A6931E1DA67300E4208A /* AppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AppDelegate.h; sourceTree = "<group>"; };
@@ -43,7 +57,6 @@
 		8ED4A6971E1DA67400E4208A /* ViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = ViewController.m; sourceTree = "<group>"; };
 		8ED4A69A1E1DA67400E4208A /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
 		8ED4A69C1E1DA67400E4208A /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
-		8ED4A69F1E1DA67500E4208A /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		8ED4A6A11E1DA67500E4208A /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		8ED4A6A61E1DA67500E4208A /* TickTakToeObjCTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = TickTakToeObjCTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		8ED4A6AA1E1DA67500E4208A /* TickTakToeObjCTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = TickTakToeObjCTests.m; sourceTree = "<group>"; };
@@ -51,6 +64,7 @@
 		8ED4A6B11E1DA67500E4208A /* TickTakToeObjCUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = TickTakToeObjCUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		8ED4A6B51E1DA67500E4208A /* TickTakToeObjCUITests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = TickTakToeObjCUITests.m; sourceTree = "<group>"; };
 		8ED4A6B71E1DA67500E4208A /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		8EFB36EE1E1EE34900E59F0B /* grid.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = grid.png; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -101,13 +115,16 @@
 		8ED4A68F1E1DA67300E4208A /* TickTakToeObjC */ = {
 			isa = PBXGroup;
 			children = (
+				8E2889901E25BBD000F20259 /* LaunchScreen.storyboard */,
+				8E28894D1E25B2F500F20259 /* GreenRubber.png */,
+				8E2889491E25B2C800F20259 /* RedRubber.png */,
+				8EFB36EE1E1EE34900E59F0B /* grid.png */,
 				8ED4A6931E1DA67300E4208A /* AppDelegate.h */,
 				8ED4A6941E1DA67300E4208A /* AppDelegate.m */,
 				8ED4A6961E1DA67400E4208A /* ViewController.h */,
 				8ED4A6971E1DA67400E4208A /* ViewController.m */,
 				8ED4A6991E1DA67400E4208A /* Main.storyboard */,
 				8ED4A69C1E1DA67400E4208A /* Assets.xcassets */,
-				8ED4A69E1E1DA67500E4208A /* LaunchScreen.storyboard */,
 				8ED4A6A11E1DA67500E4208A /* Info.plist */,
 				8ED4A6901E1DA67300E4208A /* Supporting Files */,
 			);
@@ -246,9 +263,12 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				8ED4A6A01E1DA67500E4208A /* LaunchScreen.storyboard in Resources */,
 				8ED4A69D1E1DA67400E4208A /* Assets.xcassets in Resources */,
+				8E28894A1E25B2C800F20259 /* RedRubber.png in Resources */,
 				8ED4A69B1E1DA67400E4208A /* Main.storyboard in Resources */,
+				8E2889911E25BBD000F20259 /* LaunchScreen.storyboard in Resources */,
+				8EFB36EF1E1EE34900E59F0B /* grid.png in Resources */,
+				8E28894E1E25B2F500F20259 /* GreenRubber.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -256,6 +276,10 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				8EFB36F01E1EE34900E59F0B /* grid.png in Resources */,
+				8E2889921E25BBD000F20259 /* LaunchScreen.storyboard in Resources */,
+				8E28894F1E25B2F500F20259 /* GreenRubber.png in Resources */,
+				8E28894B1E25B2C800F20259 /* RedRubber.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -263,6 +287,10 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				8EFB36F11E1EE34900E59F0B /* grid.png in Resources */,
+				8E2889931E25BBD000F20259 /* LaunchScreen.storyboard in Resources */,
+				8E2889501E25B2F500F20259 /* GreenRubber.png in Resources */,
+				8E28894C1E25B2C800F20259 /* RedRubber.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -317,14 +345,6 @@
 				8ED4A69A1E1DA67400E4208A /* Base */,
 			);
 			name = Main.storyboard;
-			sourceTree = "<group>";
-		};
-		8ED4A69E1E1DA67500E4208A /* LaunchScreen.storyboard */ = {
-			isa = PBXVariantGroup;
-			children = (
-				8ED4A69F1E1DA67500E4208A /* Base */,
-			);
-			name = LaunchScreen.storyboard;
 			sourceTree = "<group>";
 		};
 /* End PBXVariantGroup section */
@@ -507,6 +527,7 @@
 				8ED4A6BC1E1DA67500E4208A /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		8ED4A6BD1E1DA67500E4208A /* Build configuration list for PBXNativeTarget "TickTakToeObjCTests" */ = {
 			isa = XCConfigurationList;
@@ -515,6 +536,7 @@
 				8ED4A6BF1E1DA67500E4208A /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		8ED4A6C01E1DA67500E4208A /* Build configuration list for PBXNativeTarget "TickTakToeObjCUITests" */ = {
 			isa = XCConfigurationList;
@@ -523,6 +545,7 @@
 				8ED4A6C21E1DA67500E4208A /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
