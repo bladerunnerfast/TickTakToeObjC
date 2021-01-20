@@ -3,7 +3,7 @@
 //  TickTakToeObjC
 //
 //  Created by James Smith on 01/06/2014.
-//  Copyright © 2017 James Smith. All rights reserved.
+//  Copyright © 2014 James Smith. All rights reserved.
 //
 
 #import "ViewController.h"
